@@ -13,7 +13,7 @@ campo.innerHTML = texto;
 function verificarChute() {
     console.log('o botão foi clicado!');
 }
-
+nbsfbgngnjogwjrgnwgn
 
 
 
